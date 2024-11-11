@@ -4,7 +4,7 @@
 移植了U8g2。
 
 # 板子构成
-！[Board](https://github.com/watermeko/picx-images-hosting/raw/master/all/others/无标题-2024-11-11-0524.2a53vqbd52.svg)
+![Board](https://github.com/watermeko/picx-images-hosting/raw/master/all/others/无标题-2024-11-11-0524.2a53vqbd52.svg)
 
 # 文件结构
 ```
